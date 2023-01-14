@@ -12,9 +12,6 @@ Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https:
 <p align="center">
 Big thanks❤️ to Team Dark🙌
 </p>
----
-<p align='center'>
-    </p>
 
 -------
 
@@ -31,7 +28,7 @@ Big thanks❤️ to Team Dark🙌
 [![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
 
 ## `Install Automatically`
-[![Deploy on mogenius]([https://mogenius.app/button.svg](https://mogenius.com/assets/logos/logo-horizontal--negative.svg))]([https://mogenius.com/new/template?template=https%3A%2F%2Fgithub.com%2Mohanish7777777%2FCheems4Mohanish](https://studio.mogenius.com/studio/cloud-space/add-cloud-space))
+[![Deploy on Mogenius](https://mogenius.com/assets/logos/logo-horizontal--negative.svg)]([https://mogenius.com/new/template?template=https%3A%2F%2Fgithub.com%2Mohanish7777777%2FCheems4Mohanish](https://studio.mogenius.com/studio/cloud-space/add-cloud-space))
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Mohanish7777777%2FCheems4Mohanish)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mohanish7777777/Cheems4Mohanish)
