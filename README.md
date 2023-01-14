@@ -53,7 +53,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone [https://github.com/Mohanish7777777/chearms4mohanish.git]
+git clone https://github.com/Mohanish7777777/chearms4mohanish.git
 cd chearms4mohanish
 
 npm start
