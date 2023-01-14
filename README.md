@@ -11,7 +11,7 @@ Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https:
 
 <p align="center">
 Big thanks❤️ to Team Dark⚡
-Powered By Mohanish.com <a href="www.instagram.com/__mohanish__007"><img src="https://i.ibb.co/TBGpPGH/istockphoto-1344841941-612x612-removebg.png" alt="verfied" width="16" height="16" />
+Powered By Mohanish.com <a href="www.instagram.com/__mohanish__007"><img src="https://i.ibb.co/7k9tyQ6/verify1.png" alt="verfied" width="16" height="16" />
 
 </p>
 
