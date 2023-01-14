@@ -23,7 +23,7 @@ Big thanks❤️ to <a href="https://github.com/RaySenpai69" target="_blank">Ray
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/917904707229"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/917904707229"><img src="https://img.shields.io/badge/Contact%20Mohanish%E2%9D%A4%EF%B8%8F-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 # Setup For Deployment 👇
@@ -40,9 +40,9 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FDGXeon%2FCheemsBot-MD6)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Mohanish7777777%2Fchearms4mohanish)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD6/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mohanish7777777/chearms4mohanish)
 
 # Install Manually 👇
 ## `Requirements`
@@ -54,7 +54,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ## `Clone Repo & Installation dependencies`
 ```bash
 git clone [https://github.com/Mohanish7777777/chearms4mohanish.git]
-cd CheemsBot-MD6
+cd chearms4mohanish
 
 npm start
 ```
@@ -70,8 +70,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/DGXeon/CheemsBot-MD6
-cd CheemsBot-MD
+git clone https://github.com/Mohanish7777777/chearms4mohanish
+cd chearms4mohanish
 npm start
 ```
 ## `For VPS`
@@ -82,8 +82,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD6
-cd CheemsBot-MD6
+git clone https://github.com/Mohanish7777777/chearms4mohanish
+cd chearms4mohanish
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
