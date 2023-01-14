@@ -10,7 +10,7 @@ Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https:
 </p>
 
 <p align="center">
-Big thanks❤️ to <a href="https://github.com/RaySenpai69" target="_blank">Ray Senpai</a> for huge contribution, Check out his bot <a href="https://github.com/RaySenpai69/Nezuko" target="_blank">Nezuko</a>
+Big thanks❤️ to Team Dark🙌
 </p>
 
 ---
@@ -28,17 +28,12 @@ Big thanks❤️ to <a href="https://github.com/RaySenpai69" target="_blank">Ray
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/Mohanish7777777/chearms4mohanish/fork
+- FORK THE REPOSITORY [Here](https://github.com/Mohanish7777777/chearms4mohanish/fork)
 
 ## `Scan QR Code For Session`
 [![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
 
- ` BUILDPACKS`
-
-```
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
+ 
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Mohanish7777777%2Fchearms4mohanish)
 
@@ -50,11 +45,11 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * [Git](https://git-scm.com/downloads)
 * [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
 * [Libwebp](https://developers.google.com/speed/webp/download)
-* Made with Love
+* Made with Love ❤️
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/Mohanish7777777/chearms4mohanish.git
-cd chearms4mohanish
+git clone https://github.com/Mohanish7777777/Cheems4Mohanish
+cd Cheems4Mohanish
 
 npm start
 ```
@@ -70,8 +65,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/Mohanish7777777/chearms4mohanish
-cd chearms4mohanish
+git clone https://github.com/Mohanish7777777/Cheems4Mohanish
+cd Cheems4Mohanish
 npm start
 ```
 ## `For VPS`
@@ -82,8 +77,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/Mohanish7777777/chearms4mohanish
-cd chearms4mohanish
+git clone https://github.com/Mohanish7777777/Cheems4Mohanish
+cd Cheems4Mohanish
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
