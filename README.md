@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https://github.com/DGXeon" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https://github.com/Mohanish7777777" target="_blank">Mohanish</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ Big thanks❤️ to <a href="https://github.com/RaySenpai69" target="_blank">Ray
 
 # ```Bot Info```
 <p align="center">
-<a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a>
+<a href="https://github.com/Mohanish7777777/followers"><img title="Followers" src="https://img.shields.io/github/followers/Mohanish7777777?color=red&style=flat-square"></a>
 <a href="https://github.com/DGXeon/CheemsBot-MD6/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DGXeon/CheemsBot-MD6?color=blue&style=flat-square"></a>
 <a href="https://github.com/DGXeon/CheemsBot-MD6/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DGXeon/CheemsBot-MD6?color=red&style=flat-square"></a>
 <a href="https://github.com/DGXeon/CheemsBot-MD6/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DGXeon/CheemsBot-MD6?label=Watchers&color=blue&style=flat-square"></a>
