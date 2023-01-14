@@ -23,12 +23,16 @@ Big thanks❤️ to Team Dark🙌
 # Setup For Deployment 👇
 
 - FORK THE REPOSITORY [Here](https://github.com/Mohanish7777777/chearms4mohanish/fork)
+  # Note:
+  *There is session script is send to your number in form of session.json*
+  *Please copy That And Paste in forked Repositories Main Branch* 
 
 ## `Scan QR Code For Session`
 [![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
 
 ## `Install Automatically`
 [![Deploy on Mogenius](https://mogenius.com/assets/logos/logo-horizontal--negative.svg)](https://studio.mogenius.com/studio/cloud-space/add-cloud-space)
+  
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Mohanish7777777%2FCheems4Mohanish)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mohanish7777777/Cheems4Mohanish)
