@@ -20,7 +20,7 @@ Powered By Mohanish <a href="github.com/Mohanish7777777"><img src="https://i.ibb
 -------
 
 ## ```Connect With Me```
-<p align="right">
+<p align="left">
 <a href="https://wa.me/917904707229"><img src="https://img.shields.io/badge/Contact%20Mohanish%E2%9D%A4%EF%B8%8F-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
@@ -37,7 +37,7 @@ Powered By Mohanish <a href="github.com/Mohanish7777777"><img src="https://i.ibb
 ## `Install Automatically`
 [![Deploy on Mogenius](https://i.ibb.co/9Vp7TFQ/Screenshot-2023-01-15-084612.png)](https://studio.mogenius.com/studio/cloud-space/add-cloud-space)
 
-img src="[https://i.ibb.co/7k9tyQ6/verify1.png](https://studio.mogenius.com/studio/cloud-space/add-cloud-space)" alt="verfied" width="16" height="16"
+img src="[https://i.ibb.co/9Vp7TFQ/Screenshot-2023-01-15-084612.png](https://studio.mogenius.com/studio/cloud-space/add-cloud-space)" alt="verfied" width="16" height="16"
   
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Mohanish7777777%2FCheems4Mohanish)
 
