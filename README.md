@@ -38,7 +38,8 @@ Powered By Mohanish <a href="github.com/Mohanish7777777"><img src="https://i.ibb
 [![Deploy on Mogenius](https://i.ibb.co/9Vp7TFQ/Screenshot-2023-01-15-084612.png)](https://studio.mogenius.com/studio/cloud-space/add-cloud-space)
 
 img src="[https://i.ibb.co/9Vp7TFQ/Screenshot-2023-01-15-084612.png](https://studio.mogenius.com/studio/cloud-space/add-cloud-space)" alt="verfied" width="16" height="16"
-  
+
+<a href="https://studio.mogenius.com/studio/cloud-space/add-cloud-space"><img src="https://i.ibb.co/9Vp7TFQ/Screenshot-2023-01-15-084612.png" />
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Mohanish7777777%2FCheems4Mohanish)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mohanish7777777/Cheems4Mohanish)
